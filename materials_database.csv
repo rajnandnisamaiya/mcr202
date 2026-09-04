@@ -1,0 +1,201 @@
+id,name,formula,category,cp_298,molar_mass,valid_t_min,valid_t_max,cp_query,data_source,estimated
+1,Iron,Fe,Metals & Alloys,25.1,55.8,20.0,1180.0,26.48,NIST-JANAF,False
+2,Aluminum,Al,Metals & Alloys,24.2,27.0,20.0,933.0,25.58,NIST-JANAF,False
+3,Copper,Cu,Metals & Alloys,24.4,63.5,20.0,1358.0,25.66,NIST-JANAF,False
+4,Nickel,Ni,Metals & Alloys,26.1,58.7,20.0,1728.0,27.79,NIST-JANAF,False
+5,Titanium,Ti,Metals & Alloys,25.0,47.9,20.0,1943.0,26.47,NIST-JANAF,False
+6,Magnesium,Mg,Metals & Alloys,24.9,24.3,20.0,923.0,26.87,NIST-JANAF,False
+7,Zinc,Zn,Metals & Alloys,25.4,65.4,20.0,693.0,26.83,NIST-JANAF,False
+8,Lead,Pb,Metals & Alloys,26.4,207.2,20.0,601.0,28.23,NIST-JANAF,False
+9,Tin,Sn,Metals & Alloys,27.0,118.7,20.0,505.0,28.86,NIST-JANAF,False
+10,Silver,Ag,Metals & Alloys,25.4,107.9,20.0,1235.0,26.9,NIST-JANAF,False
+11,Gold,Au,Metals & Alloys,25.4,197.0,20.0,1337.0,27.21,NIST-JANAF,False
+12,Platinum,Pt,Metals & Alloys,25.9,195.1,20.0,2041.0,27.85,NIST-JANAF,False
+13,Tungsten,W,Metals & Alloys,24.3,183.8,20.0,3695.0,25.65,NIST-JANAF,False
+14,Molybdenum,Mo,Metals & Alloys,24.1,95.9,20.0,2896.0,25.61,NIST-JANAF,False
+15,Chromium,Cr,Metals & Alloys,23.4,52.0,20.0,2180.0,24.63,NIST-JANAF,False
+16,Cobalt,Co,Metals & Alloys,24.8,58.9,20.0,1768.0,26.47,NIST-JANAF,False
+17,Manganese,Mn,Metals & Alloys,26.3,54.9,20.0,1519.0,27.84,NIST-JANAF,False
+18,Beryllium,Be,Metals & Alloys,16.4,9.0,20.0,1560.0,17.78,NIST-JANAF,False
+19,Niobium,Nb,Metals & Alloys,24.6,92.9,20.0,2750.0,26.11,NIST-JANAF,False
+20,Tantalum,Ta,Metals & Alloys,25.4,180.9,20.0,3290.0,26.96,NIST-JANAF,False
+21,Vanadium,V,Metals & Alloys,24.9,50.9,20.0,2183.0,26.79,NIST-JANAF,False
+22,Palladium,Pd,Metals & Alloys,25.9,106.4,20.0,1828.0,27.31,NIST-JANAF,False
+23,Rhodium,Rh,Metals & Alloys,24.9,102.9,20.0,2237.0,26.45,NIST-JANAF,False
+24,Cadmium,Cd,Metals & Alloys,26.0,112.4,20.0,594.0,27.41,NIST-JANAF,False
+25,Indium,In,Metals & Alloys,26.7,114.8,20.0,430.0,28.29,NIST-JANAF,False
+26,Gallium,Ga,Metals & Alloys,25.9,69.7,20.0,303.0,27.32,NIST-JANAF,False
+27,Bismuth,Bi,Metals & Alloys,25.5,209.0,20.0,545.0,27.22,NIST-JANAF,False
+28,Lithium,Li,Metals & Alloys,24.9,6.9,20.0,454.0,26.38,NIST-JANAF,False
+29,Sodium (metal),Na,Metals & Alloys,28.2,23.0,20.0,371.0,29.97,NIST-JANAF,False
+30,Potassium (metal),K,Metals & Alloys,29.6,39.1,20.0,337.0,30.96,NIST-JANAF,False
+31,Steel AISI 1018,Fe-C,Metals & Alloys,25.0,55.8,20.0,1700.0,26.99,MatWeb (est.),True
+32,Stainless Steel 304,Fe-Cr-Ni,Metals & Alloys,25.8,58.0,20.0,1670.0,27.6,MatWeb (est.),True
+33,Stainless Steel 316,Fe-Cr-Ni-Mo,Metals & Alloys,25.6,58.6,20.0,1670.0,27.55,MatWeb (est.),True
+34,Inconel 718,Ni-Cr-Fe,Metals & Alloys,26.9,50.8,20.0,1610.0,28.29,MatWeb (est.),True
+35,Brass (Cu-Zn),Cu-Zn,Metals & Alloys,24.9,60.0,20.0,1173.0,26.36,MatWeb (est.),True
+36,Bronze (Cu-Sn),Cu-Sn,Metals & Alloys,24.6,65.0,20.0,1223.0,26.24,MatWeb (est.),True
+37,Duralumin (2024),Al-Cu-Mg,Metals & Alloys,24.0,27.0,20.0,913.0,25.61,MatWeb (est.),True
+38,Ti-6Al-4V,Ti-Al-V,Metals & Alloys,23.8,46.0,20.0,1877.0,25.7,MatWeb (est.),True
+39,Invar (Fe-Ni36),Fe-Ni,Metals & Alloys,25.5,55.0,20.0,1700.0,27.04,MatWeb (est.),True
+40,Nichrome,Ni-Cr,Metals & Alloys,26.0,55.0,20.0,1673.0,27.57,MatWeb (est.),True
+41,Monel 400,Ni-Cu,Metals & Alloys,26.2,55.0,20.0,1623.0,28.17,MatWeb (est.),True
+42,Hastelloy C-276,Ni-Mo-Cr,Metals & Alloys,26.5,60.0,20.0,1600.0,28.24,MatWeb (est.),True
+43,Zirconium,Zr,Metals & Alloys,25.4,91.2,20.0,2128.0,27.16,NIST-JANAF,False
+44,Aluminum 6061,Al-Mg-Si,Metals & Alloys,24.1,27.0,20.0,925.0,25.78,MatWeb (est.),True
+45,Aluminum 7075,Al-Zn-Mg-Cu,Metals & Alloys,23.9,27.0,20.0,908.0,25.23,MatWeb (est.),True
+46,Cast Iron (Gray),Fe-C-Si,Metals & Alloys,25.5,55.8,20.0,1420.0,27.35,MatWeb (est.),True
+47,Cast Iron (Ductile),Fe-C-Si,Metals & Alloys,25.6,55.8,20.0,1450.0,27.32,MatWeb (est.),True
+48,Alumina,Al2O3,Ceramics,79.0,102.0,150.0,2320.0,109.78,NIST-JANAF,False
+49,Zirconia,ZrO2,Ceramics,56.2,123.2,150.0,2988.0,75.57,NIST-JANAF,False
+50,Silicon Carbide,SiC,Ceramics,26.9,40.1,150.0,3003.0,35.1,NIST-JANAF,False
+51,Silicon Nitride,Si3N4,Ceramics,97.3,140.3,150.0,2173.0,139.98,NIST-JANAF,False
+52,Magnesium Oxide,MgO,Ceramics,37.4,40.3,150.0,3125.0,51.02,NIST-JANAF,False
+53,Titanium Dioxide (Rutile),TiO2,Ceramics,55.0,79.9,150.0,2116.0,71.41,NIST-JANAF,False
+54,Beryllium Oxide,BeO,Ceramics,25.6,25.0,150.0,2780.0,34.76,NIST-JANAF,False
+55,Boron Carbide,B4C,Ceramics,52.8,55.3,150.0,2723.0,68.15,NIST-JANAF,False
+56,Titanium Diboride,TiB2,Ceramics,44.7,69.5,150.0,3498.0,64.29,NIST-JANAF,False
+57,Titanium Carbide,TiC,Ceramics,33.8,59.9,150.0,3340.0,45.2,NIST-JANAF,False
+58,Tungsten Carbide,WC,Ceramics,39.8,195.9,150.0,3143.0,55.92,NIST-JANAF,False
+59,Chromium(III) Oxide,Cr2O3,Ceramics,81.3,152.0,150.0,2708.0,120.85,NIST-JANAF,False
+60,Yttria,Y2O3,Ceramics,102.5,225.8,150.0,2698.0,144.95,NIST-JANAF,False
+61,Ceria,CeO2,Ceramics,63.0,172.1,150.0,2673.0,81.81,NIST-JANAF,False
+62,Zinc Oxide,ZnO,Ceramics,40.3,81.4,150.0,2248.0,57.14,NIST-JANAF,False
+63,Hematite,Fe2O3,Ceramics,103.9,159.7,150.0,1838.0,151.11,NIST-JANAF,False
+64,Magnetite,Fe3O4,Ceramics,150.8,231.5,150.0,1870.0,213.67,NIST-JANAF,False
+65,Calcium Oxide,CaO,Ceramics,42.0,56.1,150.0,2900.0,54.72,NIST-JANAF,False
+66,Fused Quartz (SiO2),SiO2,Ceramics,44.4,60.1,150.0,1873.0,61.43,NIST-JANAF,False
+67,Mullite,3Al2O3·2SiO2,Ceramics,178.0,426.0,150.0,2123.0,263.23,NIST-JANAF (est.),True
+68,Cordierite,Mg2Al4Si5O18,Ceramics,305.0,584.9,150.0,1740.0,393.27,NIST-JANAF (est.),True
+69,Spinel,MgAl2O4,Ceramics,117.7,142.3,150.0,2408.0,174.23,NIST-JANAF,False
+70,Barium Titanate,BaTiO3,Ceramics,107.0,233.2,150.0,1898.0,149.94,MatWeb (est.),True
+71,PZT (Lead Zirconate Titanate),"Pb(Zr,Ti)O3",Ceramics,130.0,336.0,150.0,1500.0,178.55,MatWeb (est.),True
+72,Reaction-Bonded SiC,SiC/Si,Ceramics,27.5,41.0,150.0,2973.0,36.8,MatWeb (est.),True
+73,Silicon Oxynitride,Si2N2O,Ceramics,70.0,120.2,150.0,2073.0,100.52,MatWeb (est.),True
+74,Boron Nitride (ceramic),BN,Ceramics,19.7,24.8,150.0,3246.0,26.14,NIST-JANAF,False
+75,Tantalum Carbide,TaC,Ceramics,36.6,192.9,150.0,4150.0,48.89,NIST-JANAF,False
+76,Hafnium Carbide,HfC,Ceramics,38.0,190.5,150.0,3928.0,57.72,NIST-JANAF,False
+77,Aluminum Nitride,AlN,Ceramics,30.1,41.0,150.0,2473.0,44.14,NIST-JANAF,False
+78,Silicon,Si,Semiconductors,20.0,28.1,100.0,1687.0,23.6,NIST-JANAF,False
+79,Germanium,Ge,Semiconductors,23.4,72.6,100.0,1211.0,28.03,NIST-JANAF,False
+80,Gallium Arsenide,GaAs,Semiconductors,47.0,144.6,100.0,1511.0,56.97,NIST-JANAF (est.),True
+81,Gallium Nitride,GaN,Semiconductors,35.3,83.7,100.0,2773.0,43.61,NIST-JANAF (est.),True
+82,Indium Phosphide,InP,Semiconductors,46.0,145.8,100.0,1335.0,53.6,MatWeb (est.),True
+83,Indium Arsenide,InAs,Semiconductors,47.0,189.7,100.0,1215.0,59.62,MatWeb (est.),True
+84,Indium Antimonide,InSb,Semiconductors,48.0,236.6,100.0,798.0,58.43,MatWeb (est.),True
+85,SiC (Semiconductor Grade),SiC,Semiconductors,26.9,40.1,100.0,3003.0,33.22,NIST-JANAF,False
+86,Zinc Selenide,ZnSe,Semiconductors,50.0,144.4,100.0,1793.0,61.35,MatWeb (est.),True
+87,Zinc Sulfide,ZnS,Semiconductors,46.0,97.5,100.0,2103.0,58.56,NIST-JANAF,False
+88,Cadmium Telluride,CdTe,Semiconductors,49.5,240.0,100.0,1365.0,60.85,MatWeb (est.),True
+89,Cadmium Sulfide,CdS,Semiconductors,44.6,144.5,100.0,2023.0,55.51,NIST-JANAF,False
+90,Lead Sulfide,PbS,Semiconductors,49.5,239.3,100.0,1387.0,60.53,NIST-JANAF,False
+91,Lead Telluride,PbTe,Semiconductors,51.0,334.8,100.0,1197.0,59.96,MatWeb (est.),True
+92,Aluminum Nitride,(semiconductor)AlN,Semiconductors,30.1,41.0,100.0,2473.0,37.42,NIST-JANAF,False
+93,Boron Nitride (semiconductor),BN,Semiconductors,19.7,24.8,100.0,3246.0,23.92,NIST-JANAF,False
+94,Gallium Phosphide,GaP,Semiconductors,44.3,100.7,100.0,1730.0,54.91,MatWeb (est.),True
+95,Indium Nitride,InN,Semiconductors,35.0,128.8,100.0,2146.0,43.78,MatWeb (est.),True
+96,Aluminum Arsenide,AlAs,Semiconductors,45.0,101.9,100.0,2013.0,52.83,MatWeb (est.),True
+97,Diamond (electronic grade),C,Semiconductors,6.1,12.0,100.0,3800.0,8.22,NIST-JANAF,False
+98,Polyethylene (HDPE),(C2H4)n,Polymers,2.3,28.05,50.0,400.0,5.42,PoLyInfo (est.),True
+99,Polypropylene,(C3H6)n,Polymers,1.9,42.08,50.0,440.0,4.25,PoLyInfo (est.),True
+100,Polystyrene,(C8H8)n,Polymers,1.3,104.15,50.0,510.0,4.32,PoLyInfo (est.),True
+101,Polyvinyl Chloride (PVC),(C2H3Cl)n,Polymers,1.0,62.5,50.0,480.0,3.41,PoLyInfo (est.),True
+102,PMMA (Acrylic),(C5H8O2)n,Polymers,1.5,100.1,50.0,450.0,4.21,PoLyInfo (est.),True
+103,PTFE (Teflon),(C2F4)n,Polymers,1.0,100.0,50.0,600.0,4.24,PoLyInfo (est.),True
+104,Nylon 6,(C6H11NO)n,Polymers,1.6,113.2,50.0,500.0,4.86,PoLyInfo (est.),True
+105,"Nylon 6,6",(C12H22N2O2)n,Polymers,1.7,226.3,50.0,530.0,4.3,PoLyInfo (est.),True
+106,Polycarbonate,(C16H14O3)n,Polymers,1.2,254.3,50.0,550.0,4.01,PoLyInfo (est.),True
+107,PET,(C10H8O4)n,Polymers,1.2,192.2,50.0,540.0,4.33,PoLyInfo (est.),True
+108,ABS,(C8H8·C4H6·C3H3N)n,Polymers,1.4,,50.0,470.0,3.82,PoLyInfo (est.),True
+109,Polyurethane,varies,Polymers,1.8,,50.0,470.0,4.91,PoLyInfo (est.),True
+110,Epoxy Resin,varies,Polymers,1.6,,50.0,470.0,3.84,PoLyInfo (est.),True
+111,Phenolic Resin,varies,Polymers,1.4,,50.0,550.0,4.35,PoLyInfo (est.),True
+112,Polyimide,(C22H10N2O5)n,Polymers,1.1,382.3,50.0,670.0,4.41,PoLyInfo (est.),True
+113,PEEK,(C19H12O3)n,Polymers,1.3,288.3,50.0,620.0,3.93,PoLyInfo (est.),True
+114,POM (Delrin),(CH2O)n,Polymers,1.5,30.0,50.0,440.0,4.36,PoLyInfo (est.),True
+115,PLA,(C3H4O2)n,Polymers,1.8,72.1,50.0,420.0,4.92,PoLyInfo (est.),True
+116,Polyvinyl Alcohol (PVA),(C2H4O)n,Polymers,1.7,44.05,50.0,500.0,5.0,PoLyInfo (est.),True
+117,Silicone Rubber,(SiOC2H6)n,Polymers,1.3,74.15,50.0,600.0,4.04,PoLyInfo (est.),True
+118,Natural Rubber,(C5H8)n,Polymers,1.9,68.1,50.0,470.0,5.16,PoLyInfo (est.),True
+119,SBR (Styrene-Butadiene,Rubber)varies,Polymers,1.9,,50.0,470.0,4.31,PoLyInfo (est.),True
+120,EPDM Rubber,varies,Polymers,1.8,,50.0,470.0,4.95,PoLyInfo (est.),True
+121,Polyacrylonitrile,(C3H3N)n,Polymers,1.5,53.06,50.0,570.0,4.16,PoLyInfo (est.),True
+122,Cellulose,(C6H10O5)n,Polymers,1.3,162.1,50.0,570.0,3.81,PoLyInfo (est.),True
+123,Soda-Lime Glass,SiO2-Na2O-CaO,Glasses,0.84,,80.0,1000.0,2.1,AZoM (est.),True
+124,Borosilicate Glass (Pyrex),SiO2-B2O3,Glasses,0.83,,80.0,1100.0,1.78,AZoM (est.),True
+125,Fused Silica Glass,SiO2,Glasses,0.74,60.1,80.0,1473.0,1.68,NIST-JANAF,False
+126,Lead Glass,SiO2-PbO,Glasses,0.55,,80.0,900.0,1.77,AZoM (est.),True
+127,Aluminosilicate Glass,SiO2-Al2O3,Glasses,0.8,,80.0,1200.0,1.84,AZoM (est.),True
+128,Chalcogenide Glass,Ge-Sb-Se,Glasses,0.35,,80.0,700.0,1.37,AZoM (est.),True
+129,Fluoride Glass,ZrF4-BaF2,Glasses,0.6,,80.0,700.0,1.67,AZoM (est.),True
+130,Phosphate Glass,P2O5-based,Glasses,0.85,,80.0,900.0,2.12,AZoM (est.),True
+131,E-Glass Fiber,SiO2-Al2O3-CaO,Glasses,0.81,,80.0,1100.0,2.09,AZoM (est.),True
+132,S-Glass Fiber,SiO2-Al2O3-MgO,Glasses,0.74,,80.0,1200.0,1.79,AZoM (est.),True
+133,Bioactive Glass (45S5),SiO2-CaO-Na2O-P2O5,Glasses,0.84,,80.0,1000.0,1.75,AZoM (est.),True
+134,Vycor Glass 96%,SiO2,Glasses,0.77,,80.0,1200.0,1.9,AZoM (est.),True
+135,Quartz Glass,SiO2,Glasses,0.74,60.1,80.0,1473.0,2.05,NIST-JANAF,False
+136,Window Glass,SiO2-Na2O-CaO,Glasses,0.84,,80.0,1000.0,1.9,AZoM (est.),True
+137,Optical Crown Glass,SiO2-based,Glasses,0.86,,80.0,950.0,1.84,AZoM (est.),True
+138,Fireclay Brick,Al2O3-SiO2,Refractories,1.0,,150.0,1750.0,2.01,AZoM (est.),True
+139,High-Alumina Brick Al2O3,(60-90%),Refractories,1.05,,150.0,1900.0,1.94,AZoM (est.),True
+140,Magnesite Brick,MgO,Refractories,1.15,,150.0,2400.0,2.28,AZoM (est.),True
+141,Chromite Brick,FeCr2O4,Refractories,0.84,,150.0,2100.0,1.99,AZoM (est.),True
+142,Silica Brick,SiO2,Refractories,1.0,,150.0,1700.0,2.16,AZoM (est.),True
+143,Zirconia Refractory,ZrO2,Refractories,0.6,123.2,150.0,2600.0,1.47,NIST-JANAF (est.),True
+144,Carbon Refractory,C,Refractories,0.85,12.0,150.0,3000.0,1.74,AZoM (est.),True
+145,SiC Refractory,SiC,Refractories,0.67,40.1,150.0,2700.0,1.65,NIST-JANAF,False
+146,Mullite Refractory,3Al2O3·2SiO2,Refractories,1.1,426.0,150.0,1900.0,2.39,AZoM (est.),True
+147,Spinel Refractory,MgAl2O4,Refractories,0.83,142.3,150.0,2200.0,1.87,AZoM (est.),True
+148,Dolomite Refractory CaMg(CO3)2,(calcined),Refractories,1.0,,150.0,2000.0,1.9,AZoM (est.),True
+149,Forsterite Refractory,Mg2SiO4,Refractories,0.9,,150.0,1900.0,2.06,AZoM (est.),True
+150,Chrome-Magnesite Brick,MgO-Cr2O3,Refractories,0.95,,150.0,2200.0,1.94,AZoM (est.),True
+151,Alumina-Carbon Refractory,Al2O3-C,Refractories,0.95,,150.0,2000.0,1.9,AZoM (est.),True
+152,Graphite Refractory,C,Refractories,0.71,12.0,150.0,3200.0,1.64,NIST-JANAF,False
+153,CFRP (Carbon Fiber/Epoxy) C fiber /,epoxy,Composites,0.9,,80.0,450.0,2.72,MatWeb (est.),True
+154,GFRP (Glass Fiber/Epoxy) Glass fiber /,epoxy,Composites,1.0,,80.0,450.0,2.61,MatWeb (est.),True
+155,Kevlar/Epoxy Composite Aramid fiber /,epoxy,Composites,1.2,,80.0,450.0,3.09,MatWeb (est.),True
+156,Al-SiC Metal Matrix Composite Al /,SiC,Composites,0.85,,80.0,850.0,2.42,MatWeb (est.),True
+157,Ti-B4C Composite Ti /,B4C,Composites,0.65,,80.0,1200.0,2.01,MatWeb (est.),True
+158,Wood-Plastic Composite Wood fiber /,PE,Composites,1.4,,80.0,400.0,3.03,MatWeb (est.),True
+159,Concrete,Cement-aggregate,Composites,0.88,,80.0,900.0,2.88,AZoM (est.),True
+160,Reinforced Concrete,Cement-aggregate-steel,Composites,0.9,,80.0,900.0,2.31,AZoM (est.),True
+161,Plywood Wood,veneer/adhesive,Composites,1.6,,80.0,400.0,3.01,AZoM (est.),True
+162,MDF (Medium-Density Fibreboard)Wood,fiber/resin,Composites,1.7,,80.0,400.0,3.28,AZoM (est.),True
+163,Carbon-Carbon Composite C fiber / C,matrix,Composites,0.8,12.0,80.0,3000.0,2.21,MatWeb (est.),True
+164,CMC (SiC-SiC) SiC fiber / SiC,matrix,Composites,0.7,40.1,80.0,1900.0,2.64,MatWeb (est.),True
+165,Boron Fiber Composite B fiber /,epoxy,Composites,1.1,,80.0,450.0,2.49,MatWeb (est.),True
+166,Basalt Fiber Composite Basalt fiber /,epoxy,Composites,1.0,,80.0,450.0,2.75,MatWeb (est.),True
+167,Jute-Epoxy Composite Natural fiber /,epoxy,Composites,1.45,,80.0,400.0,3.03,MatWeb (est.),True
+168,Honeycomb Sandwich CompositeAl skin / Al,core,Composites,0.9,,80.0,600.0,2.46,MatWeb (est.),True
+169,Cermet (WC-Co) WC /,Co,Composites,0.3,,80.0,1500.0,2.03,MatWeb (est.),True
+170,Cement Paste,CaO-SiO2-H2O,Composites,1.1,,80.0,700.0,3.15,AZoM (est.),True
+171,Asphalt Concrete,Bitumen-aggregate,Composites,0.92,,80.0,450.0,2.85,AZoM (est.),True
+172,Particle Board Wood,particles/resin,Composites,1.7,,80.0,400.0,3.73,AZoM (est.),True
+173,Water (liquid),H2O,Other,75.3,18.0,20.0,373.0,80.52,NIST-WebBook,False
+174,Ice,H2O(s),Other,38.0,18.0,20.0,273.0,40.57,NIST-WebBook,False
+175,Graphite,C,Other,8.5,12.0,20.0,3800.0,9.71,NIST-JANAF,False
+176,Diamond,C,Other,6.1,12.0,20.0,3800.0,7.35,NIST-JANAF,False
+177,Carbon Nanotube (bulk),C,Other,8.0,12.0,20.0,2000.0,9.24,MatWeb (est.),True
+178,Graphene (bulk estimate),C,Other,7.0,12.0,20.0,2000.0,8.25,MatWeb (est.),True
+179,Sodium Chloride,NaCl,Other,50.5,58.4,20.0,1074.0,53.34,NIST-JANAF,False
+180,Calcium Carbonate,CaCO3,Other,83.5,100.1,20.0,1200.0,88.54,NIST-JANAF,False
+181,Gypsum,CaSO4·2H2O,Other,186.0,172.2,20.0,400.0,196.93,NIST-JANAF (est.),True
+182,Portland Cement Clinker,CaO-SiO2-Al2O3-Fe2O3,Other,0.75,,20.0,1700.0,1.42,AZoM (est.),True
+183,Liquid Sodium (coolant),Na(l),Other,30.8,23.0,20.0,1156.0,33.0,NIST-JANAF,False
+184,Liquid Lead (coolant),Pb(l),Other,29.0,207.2,20.0,2022.0,31.1,NIST-JANAF,False
+185,Molten Salt (NaNO3-KNO3),NaNO3-KNO3,Other,1.55,,20.0,873.0,2.5,NIST (est.),True
+186,Helium Gas,He,Other,20.8,4.0,20.0,2000.0,22.85,NIST-WebBook,False
+187,Nitrogen Gas,N2,Other,29.1,28.0,20.0,2000.0,31.3,NIST-WebBook,False
+188,Argon Gas,Ar,Other,20.8,39.9,20.0,2000.0,22.62,NIST-WebBook,False
+189,Hydrogen Gas,H2,Other,28.8,2.0,20.0,2000.0,30.89,NIST-WebBook,False
+190,Methane,CH4,Other,35.7,16.0,20.0,1500.0,38.32,NIST-WebBook,False
+191,Ammonia,NH3,Other,35.7,17.0,20.0,1400.0,38.02,NIST-WebBook,False
+192,Uranium Dioxide,UO2,Other,63.6,270.0,20.0,3120.0,68.27,NIST-JANAF,False
+193,Uranium (metal),U,Other,27.7,238.0,20.0,1405.0,30.21,NIST-JANAF,False
+194,Thorium Dioxide,ThO2,Other,61.8,264.0,20.0,3660.0,66.48,NIST-JANAF,False
+195,Plutonium Dioxide,PuO2,Other,66.3,276.0,20.0,2700.0,70.89,NIST-JANAF (est.),True
+196,Iron Oxide (Hematite Ore),Fe2O3,Other,103.9,159.7,20.0,1838.0,110.34,NIST-JANAF,False
+197,Copper(II) Oxide,CuO,Other,42.3,79.5,20.0,1600.0,45.67,NIST-JANAF,False
+198,Nickel(II) Oxide,NiO,Other,44.3,74.7,20.0,2230.0,47.89,NIST-JANAF,False
+199,"Cobalt(II,III) Oxide",Co3O4,Other,123.0,240.8,20.0,1173.0,131.33,NIST-JANAF,False
+200,Titanium Nitride,TiN,Other,37.0,61.9,20.0,3223.0,40.33,NIST-JANAF,False
